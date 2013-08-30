@@ -1,0 +1,53 @@
+ros-hydro-rocon-gateway-graph (0.5.3-0precise) precise; urgency=high
+
+  * fixed the package description.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-graph (0.5.2-0precise) precise; urgency=high
+
+  * adding missing dependency
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 16 Jul 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-graph (0.5.1-0precise) precise; urgency=high
+
+  * 0.5.0
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 10 Jun 2013 16:50:50 +0900
+
+ros-hydro-rocon-gateway-graph (0.5.0-0precise) precise; urgency=high
+
+  * started looking to add tooltips, but it's not implemented yet.
+  * rqt_gateway_grpah to rocon_gateway_graph
+  * 0.4.1
+  * relative path needs the .
+  * 0.4.0
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 26 May 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-graph (0.3.1-0precise) precise; urgency=high
+
+  * relative path needs the .
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-graph (0.3.0-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 04 Feb 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-graph (0.2.0-0precise) precise; urgency=high
+
+  * update dependency rospkg->python-rospkg
+  * removed rosbuild legacy files.
+  * catkinized.
+  * eclipse files.
+  * simple startup script, aka rqt_plot
+  * eclipse project files.
+  * rocon_gateway_graph imported from rocon_multimaster.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 30 Jan 2013 15:00:00 -0000
+
+
