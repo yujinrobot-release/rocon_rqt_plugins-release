@@ -1,0 +1,55 @@
+ros-hydro-rocon-rqt-plugins (0.5.4-0raring) raring; urgency=high
+
+  * add CHANGELOG files
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 10 Sep 2013 15:00:00 -0000
+
+ros-hydro-rocon-rqt-plugins (0.5.3-0raring) raring; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-rocon-rqt-plugins (0.5.2-0raring) raring; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 16 Jul 2013 15:00:00 -0000
+
+ros-hydro-rocon-rqt-plugins (0.5.1-0raring) raring; urgency=high
+
+  * 0.5.0
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 10 Jun 2013 16:50:50 +0900
+
+ros-hydro-rocon-rqt-plugins (0.5.0-0raring) raring; urgency=high
+
+  * 0.4.1
+  * buildtool depend on catkin for metapackages.
+  * 0.4.0
+  * CMake for meta pkg
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 26 May 2013 15:00:00 -0000
+
+ros-hydro-rocon-rqt-plugins (0.3.1-0raring) raring; urgency=high
+
+  * CMakeLists.txt for metapackages.
+  * 0.3.1 again.
+  * fix catkin metapackage buildtool dependency.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-hydro-rocon-rqt-plugins (0.3.0-0raring) raring; urgency=high
+
+  * remove confusing metapackage dependencies.
+  * updated stack dependencies.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 04 Feb 2013 15:00:00 -0000
+
+ros-hydro-rocon-rqt-plugins (0.2.0-0raring) raring; urgency=high
+
+  * added the metapackage.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 30 Jan 2013 15:00:00 -0000
+
+
